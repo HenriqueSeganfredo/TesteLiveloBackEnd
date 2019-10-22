@@ -17,4 +17,4 @@ Listagem de APIs para efetuar os testes via Postman:
 * /clientes/RemoverCliente - Remove um Cliente. Método DELETE. Parâmetro(s): id(Integer);
 * /clientes/BuscarPorId - Busca um Cliente pelo Id. Método GET. Parâmetro(s): id(Integer);
 * /clientes/BuscarPorNome - Busca um ou mais Clientes pelo nome. Método GET. Parâmetro(s): nome(String);
-* /clientes/AlterarNome - Altera o nome de um Cliente. Método PATCH. Parâmetro(s): id(Integer), novoNome(String);
+* /clientes/AlterarNome - Altera o nome de um Cliente. Método PATCH. Parâmetro(s): id(Integer), novoNome(String).
